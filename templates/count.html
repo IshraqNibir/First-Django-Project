@@ -1,0 +1,8 @@
+<h1>There are {{ count }} words.</h1>
+<h1>Full Text:</h1>
+{{ fulltext }}
+<h1>Dictionary</h1>
+{% for k,v in SortedList %}
+{{ k }} - {{ v }}
+<br/>
+{% endfor %}
