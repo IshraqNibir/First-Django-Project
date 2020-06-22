@@ -1,1 +1,2 @@
-# First-Django-Project
+# Project with Django and Python
+
